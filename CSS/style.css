@@ -17,8 +17,7 @@ header{
     color: black;
     position: sticky;
     top: 0;
-    z-index: 1;
-    box-shadow: 0px 10px 20px #666
+    box-shadow: 0 1rem 2rem #666
 }
 
 a{
