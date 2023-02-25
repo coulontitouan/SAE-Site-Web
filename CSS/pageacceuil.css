@@ -169,3 +169,14 @@ div > a {
     }
 }
 
+table, caption, th, td {
+
+    border: 2px solid black;
+      border-collapse: collapse;
+    
+}
+caption, th, td {
+    
+    padding: 8px;
+    
+}
