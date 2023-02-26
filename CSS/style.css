@@ -11,3 +11,36 @@ body{
     font-family: century-bold;
     src: url(../POLICES/century/CenturyGothic-BoldItalic.ttf);
 }
+
+
+.pre > div{
+    background-color: rgba(212, 212, 212, 0.041);
+    padding: 5rem 2rem 5rem 2rem;
+    margin: 10%;
+    text-align: center;
+    border-radius: 2rem;
+}
+
+.haut_de_page{
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    padding: 10% 15rem 10% 15rem;
+    margin-bottom: 10rem;
+}
+
+.pre{
+    display: flex;   
+    color: white;
+    font-size: 125%;
+    font-family: century_normal;
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+.pre > div{
+    margin: auto;
+    flex-grow: 1;
+}
+.pre > img{
+    width: 15%;
+}
