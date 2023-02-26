@@ -44,3 +44,8 @@ body{
 .pre > img{
     width: 15%;
 }
+
+.logoiut{
+    height: 3em;
+    margin-right: -5em;
+}
