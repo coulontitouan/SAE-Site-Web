@@ -50,3 +50,17 @@ body{
     margin-right: -5em;
 }
 
+table{
+  border-collapse: collapse;
+  
+}
+
+table li{
+    list-style-type: circle;
+    list-style: inside
+}
+
+th, td{
+  border: 3px solid black;
+  padding: 10px;
+}
