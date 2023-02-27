@@ -22,7 +22,7 @@ body{
 }
 
 .haut_de_page{
-    background-image: url(../IMAGES/banniere.png);
+    background-image: url(../IMAGES/banniere);
     background-size: cover;
     background-position: center;
     padding: 10% 15rem 10% 15rem;
