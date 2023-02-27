@@ -49,3 +49,8 @@ body{
     height: 3em;
     margin-right: -5em;
 }
+
+header > nav {
+    background-color:rgb(139,4,100);
+}
+
