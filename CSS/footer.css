@@ -1,6 +1,6 @@
 footer{
     margin-top: 10rem;
-    color: white;
+    color: black;
 }
 
 .content{
@@ -9,12 +9,12 @@ footer{
 
 .contact{
     display: flex;
-    background-color: rgb(139,4,100);
+    background-color: rgb(214, 214, 214);
     flex-basis: 75%;
 }
 
 .reseaux{
-    background-color: rgb(175,84,151);
+    background-color: rgb(199, 199, 199);
     flex-grow: 1;
 }
 
@@ -69,4 +69,3 @@ footer i{
 footer p{
     margin : 1rem 0 1rem 0;
 }
-
