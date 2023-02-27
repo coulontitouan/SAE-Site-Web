@@ -1,5 +1,6 @@
 footer{
     margin-top: 10rem;
+    color: white;
 }
 
 .content{
@@ -8,12 +9,12 @@ footer{
 
 .contact{
     display: flex;
-    background-color: #a8a8a8;
+    background-color: rgb(139,4,100);
     flex-basis: 75%;
 }
 
 .reseaux{
-    background-color: #C0C0C0;
+    background-color: rgb(175,84,151);
     flex-grow: 1;
 }
 
