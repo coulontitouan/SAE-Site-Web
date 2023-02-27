@@ -5,13 +5,13 @@
 }
 
 .intro > img{
-    flex-basis: 80%;
-    width: 60%;
+    flex-grow: 1;
+    width: 70%;
     margin: 2%;
 }
 
 .contenu{
-    flex-grow: 1;
+    flex-basis: 50%;
     padding-top: 3%;
 }
 
@@ -21,7 +21,7 @@
 
 .text{
     display: flex;   
-    color: white;
+    color: black;
     font-size: 125%;
     font-family: century_normal;
     padding-right: 2rem;
@@ -64,3 +64,4 @@ p > span{
     padding: 3%;
     border-radius: 2rem;
 }
+
